@@ -1,1 +1,0 @@
-{"uuid":"be8ec729-3e16-49a3-9337-5aba0ff77083","name":"com.qa.gorest.tests.GetUserTest","children":["aa5c6173-405a-4081-807f-86abf51dd0ae"],"befores":[{"name":"getUserSetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1787808261685,"stop":1787808261685}],"afters":[],"start":1787808261218,"stop":1787808263922}
