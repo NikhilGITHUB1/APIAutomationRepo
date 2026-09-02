@@ -26,7 +26,7 @@ public class ConfigurationManager {
 
                 switch (envName.toLowerCase().trim()) {
                     case "qa":
-                        fis = new FileInputStream("./src/test/resources/config/qa.config.propeties");
+                        fis = new FileInputStream("./src/test/resources/config/qa.config.properties");
                         break;
                     case "dev":
                         fis = new FileInputStream("./src/test/resources/config/dev.config.properties");
